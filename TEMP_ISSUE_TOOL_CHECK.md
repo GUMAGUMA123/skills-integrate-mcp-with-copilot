@@ -1,1 +1,1 @@
-# Temporary cleanup placeholder
+This temporary file was created while checking available GitHub tools and can be safely deleted.
