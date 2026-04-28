@@ -1,1 +1,1 @@
-# Temporary issue cleanup placeholder
+# Temporary cleanup placeholder
