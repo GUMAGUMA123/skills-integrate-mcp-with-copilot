@@ -1,1 +1,1 @@
-# Temporary issue content placeholder
+# Temporary issue cleanup placeholder
