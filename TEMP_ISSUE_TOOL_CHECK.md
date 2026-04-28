@@ -1,1 +1,1 @@
-# Test file to verify issue tooling usage
+# Temporary cleanup placeholder
